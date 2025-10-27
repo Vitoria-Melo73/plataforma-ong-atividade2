@@ -1,0 +1,26 @@
+:root {
+  /* 🎨 Paleta de Cores (8 cores) */
+  --green-primary: #2ecc71;
+  --green-dark: #27ae60;
+  --yellow: #f1c40f;
+  --blue: #3498db;
+  --white: #ffffff;
+  --gray-light: #f0f0f0;
+  --gray-medium: #999999;
+  --gray-dark: #333333;
+
+  /* 🔤 Tipografia */
+  --font-xs: 0.75rem;
+  --font-sm: 0.875rem;
+  --font-md: 1rem;
+  --font-lg: 1.5rem;
+  --font-xl: 2.5rem;
+
+  /* 📏 Espaçamento (modular) */
+  --space-8: 8px;
+  --space-16: 16px;
+  --space-24: 24px;
+  --space-32: 32px;
+  --space-48: 48px;
+  --space-64: 64px;
+}
